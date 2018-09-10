@@ -1,7 +1,7 @@
 # neural-style-transfer-using-keras
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/15.jpg">
+ <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/15.jpg" height="500px">
 </div>
 
 <br><br> 
@@ -10,11 +10,6 @@
  <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/16.png">
 </div>
 
-<br><br> <br><br> 
-
-<div align="center">
- <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/14.png">
-</div>
 
  <br><br> <br><br> 
 
