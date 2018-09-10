@@ -7,7 +7,7 @@
 
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/8.png" height="223px">
- <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/9.png" height="223px">
- <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/10.png" width="710px">
+ <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/8.png" height="500px">
+ <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/9.png" height="400px">
+ <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/10.png" width="500px">
 </div>
