@@ -14,7 +14,7 @@
  
 --------------
 
-## Multiple Style
+### Multiple Style Using Weighted Loss
 
  <br><br>
 
