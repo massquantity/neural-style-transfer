@@ -1,7 +1,7 @@
 # neural-style-transfer
-+ **main article**: .....
++ **main article**: [](https://www.cnblogs.com/massquantity/p/9621393.html)
 
-## + main article: .....
+<br>
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/15.jpg" height="400px">
