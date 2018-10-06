@@ -7,7 +7,7 @@
  <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/15.jpg" height="400px">
 </div>
 
-<br>《比如》
+<br>
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/16.png">
