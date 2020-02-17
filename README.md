@@ -1,5 +1,5 @@
 # neural-style-transfer
-## [main article](https://www.cnblogs.com/massquantity/p/9621393.html)
+ [<center>main article</center>](https://www.cnblogs.com/massquantity/p/9621393.html)
 
 <br>
 
