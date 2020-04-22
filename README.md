@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
- <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/16.jpg">
+ <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/16.png">
 </div>
 
  <br><br>
@@ -22,11 +22,11 @@
  <br><br>
 
 <div align="center">
- <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/8.jpg" height="300px">
+ <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/8.png" height="300px">
  <br><br>
- <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/9.jpg" height="400px">
+ <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/9.png" height="400px">
  <br><br>
- <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/10.jpg" width="500px">
+ <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/10.png" width="500px">
 </div>
 
 
