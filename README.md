@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
- <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/16.png">
+ <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/16.png" height="400px">
 </div>
 
  <br><br>
