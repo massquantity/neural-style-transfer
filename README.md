@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer-using-keras/master/image/15.jpg" height="400px">
+ <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/15.jpg" height="400px">
 </div>
 
 <br>
