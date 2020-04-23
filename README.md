@@ -4,13 +4,13 @@
 <br>
 
 <div align="center">
- <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/15.jpg" height="400px">
+ <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer/master/image/15.jpg" height="400px">
 </div>
 
 <br>
 
 <div align="center">
- <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/16.png" height="400px">
+ <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer/master/image/16.png" height="400px">
 </div>
 
  <br><br>
@@ -22,11 +22,11 @@
  <br><br>
 
 <div align="center">
- <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/8.png" height="300px">
+ <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer/master/image/8.png" height="300px">
  <br><br>
- <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/9.png" height="400px">
+ <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer/master/image/9.png" height="400px">
  <br><br>
- <img src="https://gitee.com/massquantity/pic/raw/master/neural-style-transfer/10.png" width="500px">
+ <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer/master/image/10.png" width="500px">
 </div>
 
 
