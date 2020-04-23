@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer/master/image/16.png" height="400px">
+ <img src="https://raw.githubusercontent.com/massquantity/neural-style-transfer/master/image/16.png" >
 </div>
 
  <br><br>
